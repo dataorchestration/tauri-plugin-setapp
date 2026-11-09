@@ -316,7 +316,7 @@
 			repositoryURL = "https://github.com/MacPaw/Setapp-framework.git";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 5.3.3;
+				minimumVersion = 5.5.5;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
